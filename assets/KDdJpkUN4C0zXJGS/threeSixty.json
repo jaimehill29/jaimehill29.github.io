@@ -1,0 +1,82 @@
+{
+  "version": "3.30.19518.0",
+  "scenes": [
+    {
+      "title": "Navigation"
+    },
+    {
+      "title": "Portfolio"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5v0Zqec4HMj",
+      "title": "Home",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5lx1B3iaPGa",
+      "title": "Hello",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6jitfAOYdW6",
+      "title": "Portfolio",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6dWW4Ulec4z",
+      "title": "Resume",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "65bKvPPyqyX",
+      "title": "Contacts",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5Wh5lFybAFC",
+      "title": "Feedback",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6lXqZ874rLX",
+      "title": "Lightbox one",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "68ZoLkFXIRT",
+      "title": "Lightbox two",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5hO8iXDzcUs",
+      "title": "Lightbox three",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "632mqd7Gy4k",
+      "title": "Lightbox four",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5iOUgJIZWIX",
+      "title": "Lightbox five",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6WsXOoZKzRx",
+      "title": "Lightbox six",
+      "scene_index": "2.6"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1044,
+    "height": 788
+  },
+  "stage": {
+    "width": 1024,
+    "height": 768
+  }
+}

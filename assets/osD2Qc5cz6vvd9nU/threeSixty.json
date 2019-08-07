@@ -1,0 +1,39 @@
+{
+  "version": "3.30.19518.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5phARtou2Ly",
+      "title": "Multiple Choice",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6XMXD8uj1mJ",
+      "title": "Multiple Choice",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6gwLLrUcxVH",
+      "title": "Multiple Choice",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5dm9BwtmLAv",
+      "title": "Quiz Results Data",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6VvRXaUMSDU_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Portfolio Templates</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/5v0Zqec4HMj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Home</name>
+			<description lang="und">Home</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/5lx1B3iaPGa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hello</name>
+			<description lang="und">Hello</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/6jitfAOYdW6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Portfolio</name>
+			<description lang="und">Portfolio</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/6dWW4Ulec4z" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resume</name>
+			<description lang="und">Resume</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/65bKvPPyqyX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Contacts</name>
+			<description lang="und">Contacts</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/5Wh5lFybAFC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Feedback</name>
+			<description lang="und">Feedback</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/6lXqZ874rLX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox one</name>
+			<description lang="und">Lightbox one</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/68ZoLkFXIRT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox two</name>
+			<description lang="und">Lightbox two</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/5hO8iXDzcUs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox three</name>
+			<description lang="und">Lightbox three</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/632mqd7Gy4k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox four</name>
+			<description lang="und">Lightbox four</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/5iOUgJIZWIX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox five</name>
+			<description lang="und">Lightbox five</description>
+		</activity>
+		<activity id="http://6VvRXaUMSDU_course_id/6WsXOoZKzRx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lightbox six</name>
+			<description lang="und">Lightbox six</description>
+		</activity>
+	</activities>
+</tincan>
